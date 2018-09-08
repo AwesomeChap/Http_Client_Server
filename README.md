@@ -7,12 +7,12 @@ just downaload the zip or clone using
 https://github.com/AwesomeChap/Http_Client_Server.git
 ```
 # Usage   
-Navigate to /HTTPserver and open another terminal and type
+Navigate to /HTTPserver and open terminal and type
 ```ruby
 gcc HTTPserver.c -o http_server
 ./http_server
 ```   
-Navigate to /HTTPclient and open the terminal and type
+Navigate to /HTTPclient and open another terminal and type
 ```ruby
 gcc HTTPclient.c -o http_client
 ./http_client <domain>
